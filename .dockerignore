@@ -1,1 +1,17 @@
+.env
+
 node_modules/
+
+.git
+.gitignore
+
+build/
+dist/
+
+coverage/
+*.log
+*.tmp
+*.bak
+
+.vscode/
+.idea/
